@@ -10,8 +10,8 @@ where:
 
 myip=1
 shownoname=false
-showmac=false
-showbrand=false
+showmac=true
+showbrand=true
 RED='\033[0;31m'
 GREEN='\033[0;32m'
 ORANGE='\033[0;33m'
